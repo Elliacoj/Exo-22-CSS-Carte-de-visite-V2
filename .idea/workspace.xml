@@ -19,16 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce206dbb-4717-459c-a201-54a6320862ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Exo-22-CSS-Carte-de-visite-V2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fond.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styleCss.css" afterDir="false" />
+    <list default="true" id="ce206dbb-4717-459c-a201-54a6320862ed" name="Default Changelist" comment="Modif">
+      <change beforePath="$PROJECT_DIR$/styleCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleCss.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +68,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604651909283</updated>
-      <workItem from="1604651910442" duration="2496000" />
+      <workItem from="1604651910442" duration="2813000" />
     </task>
+    <task id="LOCAL-00001" summary="Modif">
+      <created>1604654625253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604654625253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modif" />
   </component>
 </project>
