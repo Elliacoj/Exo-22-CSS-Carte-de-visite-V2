@@ -1,0 +1,70 @@
+body {
+    background-image: url("Fond.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    border: 5px solid #ffffff;
+    margin-left: 30%;
+    margin-right: 30%;
+    box-shadow: 5px 5px lightgrey;
+    text-shadow: 2px 2px lightgrey;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    text-decoration: white;
+    text-decoration-line: underline;
+}
+
+#moi {
+    position: absolute;
+    border: 1px solid white;
+    width: 300px;
+    height: 200px;
+    background-image: url("chat.jpg");
+    background-size: 100%;
+    right: 250px;
+    top: 100px;
+}
+
+div {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 100px;
+    line-height: 30px;
+    border: 3px solid white;
+    box-shadow: 5px 5px lightgrey;
+}
+
+.lien {
+    display: block;
+}
+
+a {
+    text-decoration-line: none;
+    color: white;
+    line-height: 50px;
+}
+
+.passions {
+    float: right;
+    color: black;
+    margin-right: 180px;
+    bottom: 100px;
+    border-color: black;
+    padding-left: 10px;
+    width: 350px;
+}
+
+.info {
+    margin-right: 1100px;
+    padding-left: 10px;
+}
